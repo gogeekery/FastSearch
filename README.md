@@ -4,6 +4,8 @@ FastSearch is a native Win32 desktop application written in pure C. It is design
 
 By leveraging memory‑mapped I/O, SIMD‑accelerated substring search (AVX2), and a parallel worker thread pool, FastSearch delivers real‑time results with maximum speed and minimal overhead. It is built specifically for developers, power users, and anyone needing to search through millions of lines of text instantly.
 
+
+
 ## Features
 
 * **Blazing‑Fast Plain‑Text Search** – Instantly scan massive volumes of text.
