@@ -6,6 +6,7 @@ By leveraging memory‑mapped I/O, SIMD‑accelerated substring search (AVX2), a
 
 
 
+
 ## Features
 
 * **Blazing‑Fast Plain‑Text Search** – Instantly scan massive volumes of text.
