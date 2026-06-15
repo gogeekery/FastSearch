@@ -1,5 +1,5 @@
 # FastSearch: High‑Performance Code & Text Search with Regex for Windows
-
+<img src="./Screenshots/Test.png" alt="FastSearch in action" width="285" height="200" align="left">
 FastSearch is a native Win32 desktop application written in pure C. It is designed for extremely fast, multi‑threaded searching across large codebases and text repositories with full Regular Expression (Regex) support. 
 
 By leveraging memory‑mapped I/O, SIMD‑accelerated substring search (AVX2), and a parallel worker thread pool, FastSearch delivers real‑time results with maximum speed and minimal overhead. It is built specifically for developers, power users, and anyone needing to search through millions of lines of text instantly.
@@ -26,8 +26,6 @@ Files are mapped directly into the application's virtual address space, allowing
 ### Threading Model
 A designated pool of worker threads processes multiple files concurrently to ensure maximum utilization of modern multi-core processors.
 
-
-<img src="./Screenshots/Test.png" alt="FastSearch in action" width="285" height="200" align="left">
 
 
 ## Build Options
