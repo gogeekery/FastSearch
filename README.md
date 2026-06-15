@@ -26,6 +26,10 @@ Files are mapped directly into the application's virtual address space, allowing
 ### Threading Model
 A designated pool of worker threads processes multiple files concurrently to ensure maximum utilization of modern multi-core processors.
 
+
+<img src="./Screenshots/Test.png" alt="FastSearch in action" width="285" height="200" align="left">
+
+
 ## Build Options
 
 SIMD optimizations can be pushed further by utilizing the compiler flag `-mavx2`. Note that the resulting output binary will be strictly optimized for your specific CPU architecture.
