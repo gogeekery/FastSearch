@@ -1,0 +1,5 @@
+// IDI_APPLICATION
+1 ICON "icon.ico"
+
+// RT_MANIFEST
+1 24 "app.manifest"
