@@ -6,6 +6,7 @@ FastSearch is a native Win32 desktop application written in C++ designed for fas
 By leveraging memory‑mapped I/O, SIMD‑accelerated substring search (AVX2), and a parallel worker thread pool, FastSearch delivers real‑time results with maximum speed and minimal overhead. It is built specifically for developers, power users, and anyone needing to search through millions of lines of text instantly.
 <br><br><br>
 
+https://youtu.be/ve3UQWJwPks
 
 
 ## Features
