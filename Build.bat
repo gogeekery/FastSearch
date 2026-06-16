@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-set MINGW=C:\Users\Warren\Desktop\Prototyping\mingw64\bin
+set MINGW=C:\mingw64\bin
 set CC=%MINGW%\gcc
 set CXX=%MINGW%\g++
 
